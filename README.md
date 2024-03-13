@@ -68,5 +68,4 @@ To run the prediction models, follow these steps:
 Open a pull request
 
 # Contact
-[Medium](https://medium.com/@yashksaini)<br>
-[LinkedIn](https://www.linkedin.com/in/yashksaini/) 
+[Medium](https://medium.com/@yashksaini) [LinkedIn](https://www.linkedin.com/in/yashksaini/) 
